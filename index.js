@@ -62,10 +62,6 @@ client.on('ready', async () => {
     }
 });
 
-// client.on('message', async (message) => {
-//     console.log(`📥 ${message.from}: ${message.body}`);
 
-
-// });
 
 client.initialize();
